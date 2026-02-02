@@ -5,4 +5,6 @@ function divide(a, b) {
   return a / b;
 }
 
+// bug 1234 - displaying result of division
+console.log(divide(10, 2));
 module.exports = divide;
