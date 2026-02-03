@@ -1,8 +1,8 @@
 function divide(a, b) {
-  if (b === 0) {
+  if (parseFloat(b) === 0) {  // bug 4567 - done fix to handle decimal values
     return "Cannot divide by zero";
   }
-  return a / b;
+  return parseFloat(a) / parseFloat(b);
 }
 
 module.exports = divide;
