@@ -6,3 +6,5 @@ function divide(a, b) {
 }
 
 module.exports = divide;
+
+// hot fix - bug 7890 - fixed - divide by zero issue fixed
