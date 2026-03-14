@@ -21,3 +21,4 @@ module.exports = modulus;
 
 // rebase and merge - commit 1
 // rebase and merge - commit 2
+// rebase and merge - commit 3
