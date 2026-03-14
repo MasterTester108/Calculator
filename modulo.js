@@ -21,3 +21,4 @@ module.exports = modulus;
 // test 2 - rebase
 
 // changes for Rebase and merge deomo - commit 1
+// changes for Rebase and merge deomo - commit 2
