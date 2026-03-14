@@ -20,3 +20,4 @@ module.exports = modulus;
 // changes done for demo - Rebase and Merge
 
 // rebase and merge - commit 1
+// rebase and merge - commit 2
