@@ -16,3 +16,5 @@ module.exports = modulus;
 // squash and merge demo  - commit 2
 
 // squash and merge demo  - commit 3
+
+// Test - rebase and merge
